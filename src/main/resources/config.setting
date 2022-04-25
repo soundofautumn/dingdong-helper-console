@@ -1,0 +1,15 @@
+#此处两个可不填
+ddmc-station-id =
+ddmc-address-id =
+
+#从Headers获取
+ddmc-device-id =
+cookie =
+ddmc-longitude =
+ddmc-latitude =
+ddmc-uid =
+user-agent =
+
+#从Query String获取
+s_id =
+device_token =
